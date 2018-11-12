@@ -1,0 +1,79 @@
+Gym; Location: 873, 725; Adjacent Vertices: XH, Observatory Rd, Fayerweather
+LSC East; Location: 960, 115; Adjacent Vertices: LSC North, Traffic Light, Dana
+Kemeny; Location: 499, 333; Adjacent Vertices: Choate House, Carson
+Cummings; Location: 86, 589; Adjacent Vertices: Thayer, Murdough
+Green Northeast; Location: 636, 619; Adjacent Vertices: Rauner, Green North, Green East, Wentworth, Green Center
+Kellogg; Location: 807, 135; Adjacent Vertices: Gilman, Goldstein
+Green Center; Location: 576, 711; Adjacent Vertices: Green East, Green West, Green Southeast, Green Southwest, Green Northeast, Green Northwest
+South Mass; Location: 430, 717; Adjacent Vertices: 1953 Commons, Mid Mass, Green West
+Roth Center; Location: 231, 167; Adjacent Vertices: DDD
+Steele; Location: 681, 434; Adjacent Vertices: Wheeler, Wilder, Fairchild, Parker House
+Gold Coast; Location: 295, 509; Adjacent Vertices: Tuck Dr, Butterfield
+KDE; Location: 262, 337; Adjacent Vertices: Bones Gate, AXA
+Wentworth; Location: 727, 606; Adjacent Vertices: North Fayerweather, Richardson, Green Northeast
+Wheeler; Location: 646, 485; Adjacent Vertices: Steele, Rauner, Wilder, Berry
+Tuck Dr; Location: 240, 509; Adjacent Vertices: Gold Coast, Buchanan
+Rauner; Location: 637, 556; Adjacent Vertices: Green Northeast, Wheeler, Baker, Richardson
+Raven; Location: 696, 251; Adjacent Vertices: Goldstein, Sudikoff, Moore, Parker House
+Green Northwest; Location: 503, 622; Adjacent Vertices: Sanborn, Green North, North Mass, Green West, Green Center, Baker, Green East
+Tuck; Location: 116, 487; Adjacent Vertices: Murdough, Buchanan
+Green North; Location: 570, 618; Adjacent Vertices: Green Northeast, Green Northwest, Baker
+37 Dewey Field; Location: 752, 96; Adjacent Vertices: Goldstein
+New Hamp; Location: 739, 773; Adjacent Vertices: Observatory Rd, Green Southeast
+Choate House; Location: 535, 269; Adjacent Vertices: LALACS, Kemeny, Choates
+LALACS; Location: 568, 220; Adjacent Vertices: Sherman, Choate House
+McLaughlin; Location: 767, 247; Adjacent Vertices: Sudikoff, Gilman
+Baker West; Location: 496, 504; Adjacent Vertices: Sanborn, Blunt, Carson
+Buchanan; Location: 178, 509; Adjacent Vertices: Tuck Dr, Thayer, Tuck, Murdough
+Observatory; Location: 787, 541; Adjacent Vertices: North Fayerweather, Dragon
+LSC North; Location: 936, 71; Adjacent Vertices: LSC East, LSC West
+LSC West; Location: 924, 121; Adjacent Vertices: LSC North, Traffic Light, Dana
+FDA; Location: 365, 374; Adjacent Vertices: Bones Gate, Rocky, Butterfield
+Carson; Location: 495, 413; Adjacent Vertices: Rocky, Kemeny, Berry, Baker West
+Rocky; Location: 421, 389; Adjacent Vertices: FDA, Carson
+Green East; Location: 641, 707; Adjacent Vertices: Green Center, Green Southeast, Green Northeast, Green Southwest, Green Northwest, Observatory Rd
+Blunt; Location: 423, 508; Adjacent Vertices: Butterfield, Baker West, North Mass
+XH; Location: 932, 705; Adjacent Vertices: Gym, East Wheelock
+Bema; Location: 918, 529; Adjacent Vertices: North Fayerweather
+Sanborn; Location: 498, 560; Adjacent Vertices: Baker West, Green Northwest, Baker, North Mass
+Berry; Location: 577, 419; Adjacent Vertices: Carson, Wheeler, Parker House
+Richardson; Location: 725, 533; Adjacent Vertices: Wilder, Wentworth, Rauner
+Robinson/Collis; Location: 480, 753; Adjacent Vertices: Green West, 1953 Commons, Green Southwest
+AQ; Location: 126, 255; Adjacent Vertices: DDD, AXA
+Brace; Location: 958, 623; Adjacent Vertices: East Wheelock
+Moore; Location: 644, 213; Adjacent Vertices: Sherman, Raven
+Mid Mass; Location: 426, 657; Adjacent Vertices: North Mass, South Mass
+Green Southwest; Location: 510, 798; Adjacent Vertices: Robinson/Collis, Green South, Green West, Green Center, Green East
+Murdough; Location: 84, 523; Adjacent Vertices: Tuck, Thayer, Cummings, Buchanan
+East Wheelock; Location: 993, 687; Adjacent Vertices: XH, Brace
+Fairchild; Location: 729, 381; Adjacent Vertices: Burke, Steele
+Green Southeast; Location: 647, 793; Adjacent Vertices: Green South, Green East, New Hamp, Green Center
+Bildner; Location: 819, 280; Adjacent Vertices: Gilman, Burke
+Choates; Location: 409, 217; Adjacent Vertices: Dean's House, Choate House
+Wilder; Location: 730, 477; Adjacent Vertices: Richardson, Steele, Wheeler
+Baker; Location: 567, 519; Adjacent Vertices: Rauner, Sanborn, Green North, Green Northwest
+Butterfield; Location: 359, 509; Adjacent Vertices: Gold Coast, Blunt, FDA
+Parker House; Location: 649, 313; Adjacent Vertices: Raven, Sudikoff, Steele, Berry
+Thayer; Location: 127, 548; Adjacent Vertices: Murdough, Cummings, Buchanan
+North Fayerweather; Location: 780, 608; Adjacent Vertices: Wentworth, Observatory, Fayerweather, Observatory Rd, Bema
+Sudikoff; Location: 736, 288; Adjacent Vertices: McLaughlin, Raven, Burke, Parker House
+Sherman; Location: 595, 177; Adjacent Vertices: LALACS, Rope Ferry, Moore
+Rope Ferry; Location: 625, 129; Adjacent Vertices: Sherman, Dicks House
+11 Rope Ferry; Location: 686, 46; Adjacent Vertices: Dicks House
+Dana; Location: 901, 206; Adjacent Vertices: Gilman, Traffic Light, LSC West, LSC East
+Green West; Location: 503, 710; Adjacent Vertices: Robinson/Collis, Green Center, South Mass, Green Northwest, Green Southwest
+Bones Gate; Location: 314, 358; Adjacent Vertices: FDA, KDE
+AXA; Location: 205, 321; Adjacent Vertices: KDE, AQ
+Gilman; Location: 858, 233; Adjacent Vertices: Dana, Bildner, McLaughlin, Kellogg
+North Mass; Location: 426, 603; Adjacent Vertices: Mid Mass, Green Northwest, Sanborn, Blunt
+Dean's House; Location: 350, 142; Adjacent Vertices: Choates
+Observatory Rd; Location: 809, 751; Adjacent Vertices: Gym, New Hamp, North Fayerweather, Green East
+1953 Commons; Location: 429, 747; Adjacent Vertices: South Mass, Robinson/Collis
+DDD; Location: 187, 211; Adjacent Vertices: Roth Center, AQ
+Goldstein; Location: 722, 207; Adjacent Vertices: Raven, Kellogg, 37 Dewey Field
+Dicks House; Location: 657, 81; Adjacent Vertices: 11 Rope Ferry, Rope Ferry
+Green South; Location: 580, 798; Adjacent Vertices: Green Southeast, Green Southwest
+Fayerweather; Location: 844, 644; Adjacent Vertices: North Fayerweather, Gym
+Burke; Location: 775, 327; Adjacent Vertices: Sudikoff, Bildner, Fairchild
+Traffic Light; Location: 975, 183; Adjacent Vertices: LSC East, Dana, LSC West
+Dragon; Location: 856, 331; Adjacent Vertices: Observatory
